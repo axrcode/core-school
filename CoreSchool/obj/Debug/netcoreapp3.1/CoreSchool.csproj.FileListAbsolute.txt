@@ -1,0 +1,14 @@
+D:\projects\csharp\CoreSchool\CoreSchool\bin\Debug\netcoreapp3.1\CoreSchool.exe
+D:\projects\csharp\CoreSchool\CoreSchool\bin\Debug\netcoreapp3.1\CoreSchool.deps.json
+D:\projects\csharp\CoreSchool\CoreSchool\bin\Debug\netcoreapp3.1\CoreSchool.runtimeconfig.json
+D:\projects\csharp\CoreSchool\CoreSchool\bin\Debug\netcoreapp3.1\CoreSchool.runtimeconfig.dev.json
+D:\projects\csharp\CoreSchool\CoreSchool\bin\Debug\netcoreapp3.1\CoreSchool.dll
+D:\projects\csharp\CoreSchool\CoreSchool\bin\Debug\netcoreapp3.1\CoreSchool.pdb
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.csproj.AssemblyReference.cache
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.AssemblyInfoInputs.cache
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.AssemblyInfo.cs
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.csproj.CoreCompileInputs.cache
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.dll
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.pdb
+D:\projects\csharp\CoreSchool\CoreSchool\obj\Debug\netcoreapp3.1\CoreSchool.genruntimeconfig.cache
